@@ -1,2 +1,2 @@
 # JavaScript Practice
-Coding Practice using JavaScript language.
+Learning and Practicing JavaScript language.
